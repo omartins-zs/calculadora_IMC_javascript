@@ -1,3 +1,7 @@
 Inicio de Projeto
 
 Iniciando Projeto Calculadora de IMC com JS
+
+
+Tutorial [Criando Calculadora IMC com JavaScript[Will Dev]
+](https://www.youtube.com/watch?v=cLCRPiHUls4)
